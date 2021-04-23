@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NoemiGabis64
+- 👋 Hi, I’m Noemi Gabeielly
 - 👀 I’m interested in Innovation
 - 🌱 I’m currently learning Programming language
 - 💞️ I’m looking to collaborate on a sustainability project
