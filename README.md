@@ -1,8 +1,4 @@
-<p align="center"><a href="https://NoemiGabis64.github.io"><img width="80%" alt="Hello, I'm Noemi Gabrielly. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
-
-I'm a computer professional from Brazil
+Hello! I'm a computer professional from Brazil!
 
 **About me**
 
