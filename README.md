@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Noemi Gabeielly
-- 👀 I’m interested in Innovation
-- 🌱 I’m currently learning Programming language
-- 💞️ I’m looking to collaborate on a sustainability project
-- 📫 How to reach me, from my email noemigabrielly02@gmail.com
+### Hi there 
 
+- I'm a computer professional but apparently I don't post much here, because I'we  been studying more than practicing. So I'll try to post more often about I studied.
